@@ -1,9 +1,11 @@
 label,sublabel,description,styles,bgcolor
-燃やさないごみ,,,img/moyasanai02.svg,#733b96
-資源,,,img/shigen02.svg,#77ae1f
 燃やすごみ,,,img/moyasu02.svg,#ea3b13
+燃やさないごみ,,,img/moyasanai02.svg,#733b96
+不燃ゴミ２,,,img/bin02.svg,#2dc7aa
+資源,,,img/shigen02.svg,#77ae1f
 びん,,,img/bin02.svg,#2dc7aa
+生ゴミ,,,img/bin02.svg,#2dc7aa
 新聞紙,,,img/bin02.svg,#2dc7aa
-コピー用紙・シュレッダー済紙,,,img/bin02.svg,#2dc7aa
+コピー用紙,,,img/bin02.svg,#2dc7aa
 雑誌・段ボール・封筒,,,img/bin02.svg,#2dc7aa
-コピー用紙のみ,,,img/bin02.svg,#2dc7aa
+シュレッダー済紙,,,img/bin02.svg,#2dc7aa
